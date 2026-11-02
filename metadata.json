@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy: Plan, Learn, Test",
+  "description": "Smart study planner, step-by-step doubt solver, and interactive MCQ quiz companion for first-year engineering students covering Chemistry, Communication Skills, and Problem Solving with C.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
